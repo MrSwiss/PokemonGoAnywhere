@@ -20,6 +20,8 @@ As reported on [reddit](https://www.reddit.com/r/pokemongo/comments/4ry7my/psa_s
 
 ## Installation Instructions
 
+#### [Now available on PPSideloader as "Poke++"](https://github.com/eni9889/ppsideloader), I reccommend you try before you try my guide.
+
 #### [Video guide by EverythingApplePro](https://www.youtube.com/watch?v=hjcUbyTvslA)
 
 ### **STEP 1**: Download PokemonGo.ipa first, it must be decrypted a.k.a. "cracked". You can find this on [iphonecake](https://www.iphonecake.com/)
