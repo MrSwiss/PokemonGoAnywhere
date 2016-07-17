@@ -27,7 +27,7 @@ As reported on [reddit](https://www.reddit.com/r/pokemongo/comments/4ry7my/psa_s
 ### **STEP 2**: Unzip PokemonGoAnywhere-master (I recommend you place the unzipped folder onto the desktop)
 
 ### **STEP 3**: Place your copy of PokemonGo.ipa into your previously **unzipped** folder. 
-Rename the .IPA to PokemonGO.ipa if you wish to follow the tutorial directly
+>Rename the .IPA to PokemonGO.ipa if you wish to follow the tutorial directly
 
 ### **STEP 4**: Open up your terminal and type(you need an elevated account for the following steps):
 
